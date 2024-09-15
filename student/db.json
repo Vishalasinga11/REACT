@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "id": "2392",
+      "rollNumber": "56",
+      "name": "vishala",
+      "email": "ghjknm@",
+      "mobile": "34567890",
+      "checkinTime": "11:44:17 am",
+      "checkinDate": "23/8/2024",
+      "checkoutTime": "11:44:18 am",
+      "checkoutDate": "23/8/2024"
+    },
+    {
+      "id": "7c89",
+      "rollNumber": "56789",
+      "name": "vishala",
+      "email": "ghjknm@",
+      "mobile": "34567890",
+      "checkinTime": "11:49:58 am",
+      "checkinDate": "23/8/2024",
+      "checkoutTime": "11:50:00 am",
+      "checkoutDate": "23/8/2024"
+    }
+  ]
+}
